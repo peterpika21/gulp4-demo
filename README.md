@@ -18,5 +18,3 @@ npm install
 bower install
 gulp
 ```
-
-[範例網站](https://hexschool.github.io/gulp-demo/)。
